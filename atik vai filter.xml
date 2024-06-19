@@ -1,0 +1,1506 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001713873000435*0222139070627834012,z0000001713873001319*6515018508069624228,z0000001713873007396*3229957738577718131,z0000001713873009491*2981954946127782146,z0000001713873011916*0779217314026578916,z0000001713873014822*0778805394986352622,z0000001713873017731*3016180437954013883,z0000001713873023445*6814161565670243059,z0000001713873025491*3709749410778098800,z0000001713873029108*2775066875140105038,z0000001713873031124*2045446970753623199,z0000001713873034400*2811223759862399315,z0000001713873051172*3837427580002446941,z0000001713873053191*4845910369198191777,z0000001713873057095*5779734870802202982,z0000001713873059844*6617550712872563126,z0000001713873062915*4076784786465692394,z0000001713873066130*6876278207313481545,z0000001713873068199*6448797149824543853,z0000001713873073639*2786828155200300219,z0000001713873075636*2350895383425524667,z0000001713873077322*1918282687960085472,z0000001713873080131*8603069270234441163,z0000001713873081854*3524614551883488371,z0000001713873084643*6084863316423958228,z0000001713873087539*9130328064213379354,z0000001713873089868*0795377761854312158,z0000001713873091899*4657864220047151772,z0000001713873093921*5095421851861946919,z0000001713873096725*2030951283095173032,z0000001713873099215*2884418303925701447,z0000001713873103201*7515653406876052739,z0000001713873105575*8780543774934401877,z0000001713873108722*1976845893468351937,z0000001713873111069*0115228383322143056,z0000001713873116683*3508941806247485895,z0000001713873121194*1675059671362088218,z0000001713873123285*4432610284177987946,z0000001713873126893*1167769264754218349,z0000001713873129789*7908451290455761763,z0000001713873131874*1562553587935254433,z0000001713873134328*6831186823282184920,z0000001713873136332*5315450825762808322,z0000001713873138774*7165119866204288282,z0000001713873141906*9004542741243125921,z0000001713873145707*2523179995796456452,z0000001713873148440*3081126186312945008,z0000001713873157969*1328306651919746231,z0000001713873160355*3932575811884596622,z0000001713873162793*8649909825076741660,z0000001713873164855*5031457798634084987,z0000001713873166839*0067025488844716075,z0000001713873169784*2856947311556302417,z0000001713873172216*6106470211611435020,z0000001713873175730*6254177117078096835,z0000001713873179647*0683678516944185291,z0000001713873185575*2703764593278299607,z0000001713873189139*2799548200717974368,z0000001713873193679*5789625272065731432,z0000001713873197023*1501259255041369551,z0000001713873199195*8472705993864209714,z0000001713873202395*4818005236736903051,z0000001713873206563*5866723685797235496,z0000001713873210860*8242731065742840790,z0000001713873214073*7005659114632852868,z0000001713873224258*7039361793173289848,z0000001713873227462*3099915349516003211,z0000001713873229848*8332508270082271206,z0000001713873233326*7156021913141193082,z0000001713873236465*8271064988168188955,z0000001713873239344*5455028883365272676,z0000001713873241654*3210908439106917857,z0000001713873249606*0412379894822474057,z0000001713873251646*4775421256882620246,z0000001713873256560*2535359046554787516,z0000001713873259460*1889138578412824478,z0000001713873261811*2798772848273351560,z0000001713873264068*0314143502059928599,z0000001713873266472*5229006414056324024,z0000001713873268546*7065580049673428299,z0000001713873271290*8379095053245726969,z0000001713873273443*4306222770197670534,z0000001713873281959*0170874541337490040,z0000001713873285614*0402415855791476932,z0000001713873293206*7974531254755615573,z0000001713873295365*0912019508095876454,z0000001713873297048*2706540589146962199,z0000001713873298773*7766118519995232182,z0000001713873301218*7728714668009650472,z0000001713873304291*1842897659049392531,z0000001713873306693*5580291201145429658,z0000001713873309331*8347099504234679171,z0000001713873311915*7804898441157202358,z0000001713873314103*6995477691357931391,z0000001713873318061*8761836910249925832,z0000001713873321019*8402898238292620206,z0000001713873323563*1720768983497983000,z0000001713873325640*5423647646483491657,z0000001713873328467*1132753294585435172,z0000001713873332413*9189852003550519097,z0000001713873336137*6353756743070781949,z0000001713873354441*7886227841595914081,z0000001713873357380*2383564567082104553,z0000001713873359900*7890092475220429289,z0000001713873362042*6602012941189906414,z0000001713873367911*3485327111866703634,z0000001713873372269*7434247637675158735,z0000001713873378230*1497217198922443322,z0000001713873381151*7484662438971544225,z0000001713873383827*1874998714573988965,z0000001713873387272*4245972276374513249,z0000001713873392196*3808876926386522513,z0000001713873394986*6916803531705980565,z0000001713873398949*7568591430058706958,z0000001713873402206*6487062241697673293,z0000001713873404802*7360216107715378617,z0000001713873407356*2191579061095896967,z0000001713873411884*3291638697209312696,z0000001713873415654*2385766681406422018,z0000001713873417725*0487584520687086066,z0000001713873420639*3146808555371481694,z0000001713873423186*1487987837142984641,z0000001713873426786*4770873294439903650,z0000001713873430438*4398564093719759846,z0000001713873433558*7139813399002406063,z0000001713873437765*6571362997179025853,z0000001713873440280*5941763050190643241,z0000001713873444962*4776230488589529521,z0000001713873448545*1368339302397933719,z0000001713873450935*1924381727544300815,z0000001713873452979*2135637537760970852,z0000001713873475241*8688877148686554211,z0000001713873478172*2483354639797200739,z0000001713873481125*7613018363386904792,z0000001713873487030*8506193430965554754,z0000001713873489105*4679683285634056833</id>
+	<updated>2024-05-21T10:38:51Z</updated>
+	<author>
+		<name>Juliet Scott</name>
+		<email>julietscott4985@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873000435*0222139070627834012</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Gmail Team'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873001319*6515018508069624228</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='yfotieusuxk21457fytsus@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873007396*3229957738577718131</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='tanzintandra@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873009491*2981954946127782146</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='alina44511@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873011916*0779217314026578916</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mdmahabul745@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873014822*0778805394986352622</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='aburch11514@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873017731*3016180437954013883</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mailer-daemon@googlemail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873023445*6814161565670243059</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='AmandaSmith566@hotmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873025491*3709749410778098800</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='JulietScott998@hotmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873029108*2775066875140105038</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='anowarhossain018699@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873031124*2045446970753623199</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='adventuer.man@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873034400*2811223759862399315</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='rofiqul634765@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873051172*3837427580002446941</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='ms.helenrfriddle@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873053191*4845910369198191777</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='delcarrilclaudio20@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873057095*5779734870802202982</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='regencyraselbd@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873059844*6617550712872563126</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='kristengaamy1@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873062915*4076784786465692394</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='kathleen.munroe1288@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873066130*6876278207313481545</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jefhen68@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873068199*6448797149824543853</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Brooke7465Haggermaker@outlook.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873073639*2786828155200300219</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='SoonBarrentes@hotmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873075636*2350895383425524667</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Fnight_Ffight._.0.0.002@hotmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873077322*1918282687960085472</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Leonarda90-98Troxel@outlook.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873080131*8603069270234441163</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='daniela.rodrigus@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873081854*3524614551883488371</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='wigginsgladys35@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873084643*6084863316423958228</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='helenbgthd5@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873087539*9130328064213379354</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='alexagracexxx69@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873089868*0795377761854312158</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='lindiamariaxac@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873091899*4657864220047151772</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='tavean7@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873093921*5095421851861946919</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jimhill4796@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873096725*2030951283095173032</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mrk318077@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873099215*2884418303925701447</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mrk3180771@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873103201*7515653406876052739</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='label:spam Re:'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873105575*8780543774934401877</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='nancybrown7090@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873108722*1976845893468351937</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='patricialauren43@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873111069*0115228383322143056</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='laurenwinkler541@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873116683*3508941806247485895</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='marthyhous@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873121194*1675059671362088218</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mirrajessikacb@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873123285*4432610284177987946</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='abbymiller979@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873126893*1167769264754218349</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='silaselwellk373@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873129789*7908451290455761763</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='dyana.medenxx@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873131874*1562553587935254433</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='olsonhobbswq38@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873134328*6831186823282184920</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='00001229098719sp@al.educacao.sp.gov.br'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873136332*5315450825762808322</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='augusthabowski40@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873138774*7165119866204288282</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='sakhalek240@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873141906*9004542741243125921</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='claraball433@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873145707*2523179995796456452</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='makmesweat2@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873148440*3081126186312945008</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='johnsonsofia79@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873157969*1328306651919746231</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mariamari543443@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873160355*3932575811884596622</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jlsykw184134@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873162793*8649909825076741660</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='gorryyeasmen81@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873164855*5031457798634084987</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='karlapoai34@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873166839*0067025488844716075</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='aj945420@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873169784*2856947311556302417</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='zhanardodds591@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873172216*6106470211611435020</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jessicajoelle70@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873175730*6254177117078096835</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='maryndayala1955@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873179647*0683678516944185291</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='yvspamac@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873185575*2703764593278299607</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jimoacrozier@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873189139*2799548200717974368</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='anokimagretatu@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873193679*5789625272065731432</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='megang407@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873197023*1501259255041369551</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='lindahot7052@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873199195*8472705993864209714</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='copyrightroshananik@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873202395*4818005236736903051</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='rosebailyen@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873206563*5866723685797235496</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='wandacollins1254@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873210860*8242731065742840790</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='yayformeh@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873214073*7005659114632852868</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='suffed829345@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873224258*7039361793173289848</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='oliviagia69xx@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873227462*3099915349516003211</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='wudjcmomeukgcmfkbn@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873229848*8332508270082271206</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='agerkelly@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873233326*7156021913141193082</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='imeldabarrete1452@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873236465*8271064988168188955</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='sygsishsjwfshs25@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873239344*5455028883365272676</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='wallace.merrett90@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873241654*3210908439106917857</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='nanncyaniyels6754@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873249606*0412379894822474057</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='naincaspasefsdsd8596@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873251646*4775421256882620246</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='juanitadoerranit@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873256560*2535359046554787516</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='drmegan123@rachael.getb.info'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873259460*1889138578412824478</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='tdeathdriver@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873261811*2798772848273351560</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='ranggaaditya04@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873264068*0314143502059928599</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='savvaelen19@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873266472*5229006414056324024</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='ctt7000@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873268546*7065580049673428299</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='dannystare408@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873271290*8379095053245726969</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='kristenreinhart92614@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873273443*4306222770197670534</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='pravdaria@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873281959*0170874541337490040</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='joseescarigo@sapo.pt'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873285614*0402415855791476932</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='usatalisa7@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873293206*7974531254755615573</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='simsimmina65@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873295365*0912019508095876454</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='akonobro8456@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873297048*2706540589146962199</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='leesangwook2@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873298773*7766118519995232182</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='shikhaaktar14@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873301218*7728714668009650472</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='info'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873304291*1842897659049392531</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Peggy4785Stevenson@outlook.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873306693*5580291201145429658</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='MalissaGraff@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873309331*8347099504234679171</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='weddingeast@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873311915*7804898441157202358</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='onlineoutsourcing19@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873314103*6995477691357931391</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mdborson76@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873318061*8761836910249925832</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='janay0366@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873321019*8402898238292620206</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='iriscastro063@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873323563*1720768983497983000</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='ms6137062@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873325640*5423647646483491657</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='castillojaime185@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873328467*1132753294585435172</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='reynoldse475@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873332413*9189852003550519097</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='ravikumarjj126@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873336137*6353756743070781949</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='abamymaelle8@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873354441*7886227841595914081</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='tarshacyadonht8484@hotmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873357380*2383564567082104553</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='devidjking17@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873359900*7890092475220429289</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='yasmeenyounis940@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873362042*6602012941189906414</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jessicamegangf061@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873367911*3485327111866703634</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='roshananik7@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873372269*7434247637675158735</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='amandalynch199@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873378230*1497217198922443322</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='kasewireduja5364@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873381151*7484662438971544225</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='osixtus2014@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873383827*1874998714573988965</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jillianwyatt008x@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873387272*4245972276374513249</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='djsaske250@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873392196*3808876926386522513</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='rsadi749@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873394986*6916803531705980565</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='funyunyao1324@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873398949*7568591430058706958</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='support@reddit.zendesk.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873402206*6487062241697673293</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='fahanaary20@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873404802*7360216107715378617</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jess.commanda@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873407356*2191579061095896967</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='punkbass142001@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873411884*3291638697209312696</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mikedw544@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873415654*2385766681406422018</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='no-reply@sharepointonline.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873417725*0487584520687086066</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mariajora7392@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873420639*3146808555371481694</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jbell5638@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873423186*1487987837142984641</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='axian134@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873426786*4770873294439903650</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='prettygirl76989@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873430438*4398564093719759846</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='s698969@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873433558*7139813399002406063</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='DanelleDaniel@hotmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873437765*6571362997179025853</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='degsfswfhhgebdr@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873440280*5941763050190643241</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='roxiefuk8@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873444962*4776230488589529521</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='LatashaHatton@hotmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873448545*1368339302397933719</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='everettepolkmjchenault963@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873450935*1924381727544300815</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='julialeslie359@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873452979*2135637537760970852</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='jessica591277@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873475241*8688877148686554211</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='ofmillertime@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873478172*2483354639797200739</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='janenolan083@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873481125*7613018363386904792</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='mobile207.bed@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873487030*8506193430965554754</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='angelitaparham5@gmail.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001713873489105*4679683285634056833</id>
+		<updated>2024-05-21T10:38:51Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='austinwong@myyahoo.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
